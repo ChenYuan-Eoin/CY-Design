@@ -9,7 +9,7 @@ description: 用于管理产品原型的发布与演示
 ## 原型管理办法：
 
 {% tabs %}
-{% tab title="First-Tab" %}
+{% tab title="First Tab" %}
 
 {% endtab %}
 
